@@ -30,7 +30,7 @@ const Header = () => {
         <Container>
           <Link to="/">
             <Navbar.Brand className={darkMode? 'text-dark-primary': 'text-light-primary'}>
-                <b>Simple-ecart</b>
+                <b>Shopify</b>
             </Navbar.Brand>
           </Link>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
